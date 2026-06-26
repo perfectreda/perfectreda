@@ -16,7 +16,7 @@
 
 ## 🧠 Who I am
 
-I'm an **Électrotechnique engineering student** (specializing in Energy Conversion & Embedded Systems) — but I'm not sitting around waiting for the diploma to start building things.
+I'm an **Electrical engineer** (specializing in Energy Conversion & Embedded Systems) — but I'm not sitting around waiting for the diploma to start building things.
 
 By day I'm deep in power electronics, motor control, and embedded firmware.  
 By night I'm figuring out how to turn skills into products, services, and income.
